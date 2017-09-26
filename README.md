@@ -1,2 +1,2 @@
-# woocommerce-clearsale-start
-Woocommerce Clearsale Start integration
+# Woocommerce Clearsale
+Integração entre woocommerce e clearsale
