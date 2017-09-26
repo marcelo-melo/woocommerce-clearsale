@@ -1,10 +1,4 @@
 # Woocommerce Clearsale
-Contributors: Marcelo Melo
-Tags: clearsale, woocommerce
-Tested up to: 4.8.2
-License: GNU General Public License v3.0
-License URI: https://github.com/marcelo-melo/woocommerce-clearsale/blob/master/LICENSE
-
 Integração entre WooCommerce  e ClearSale
 
 ## Descrição
@@ -17,3 +11,6 @@ A integração com clearsale que permite o usuário verificar individualmente ca
 2. Ative o plugin pela administração
 3. Entre com seu código de integração do ClearSale na tela de configurações do WooCommerce.
 4. Dentro de detalhes do pedido será possível realizar a verificação no clearsale para as compras que considerar de maior risco.
+
+## License
+GNU General Public License v3.0
